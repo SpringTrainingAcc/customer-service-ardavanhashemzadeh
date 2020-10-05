@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.customer.ms</groupId>
-	<artifactId>customer-service_ardavan</artifactId>
+	<artifactId>customer-service-ardavan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>customer-service_ardavan</name>
 	<description>Customer MicroService</description>
